@@ -24,5 +24,4 @@ Os códigos aqui presentes foram extraídos, adaptados e expandidos a partir do 
 -   **Mercado Financeiro:** Gestão de risco extremo, arbitragem estatística e análise de volatilidade.
 -   **Sociedade:** Projeções macroeconômicas, análise de contágio de crises e modelagem de incerteza em políticas públicas.
 
----
-*Nota: Todos os scripts possuem comentários detalhados e variáveis em português para facilitar o uso acadêmico e profissional.*
+
